@@ -102,8 +102,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Marolix Snapshot Nexus Repository </name>
-	      <url>http://13.127.136.149:8081/repository/marolix-snapshot/</url>
+	      <name>Practical Snapshot Nexus Repository </name>
+	      <url>http://13.232.6.116:8081/repository/practical-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
