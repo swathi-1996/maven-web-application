@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Marolix Releases Nexus Repository</name>
-	      <url>http://13.127.136.149:8081/repository/marolix-release/</url>
+	      <url>http://13.232.176.230:8081/repository/jan-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Practical Snapshot Nexus Repository </name>
-	      <url>http://13.232.6.116:8081/repository/practical-snapshot/</url>
+	      <name>Marolix Snapshot Nexus Repository </name>
+	      <url>http://13.232.176.230:8081/repository/jan-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
